@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Antonio&family=Open+Sans:wght@300&family=Roboto:wght@100;300&display=swap');
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+.container-info{
+    background-color: black;
+    color: white;
+    width: 90%;
+    height: 100px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
+.logo-wp{
+    width: 30px;
+    height: 30px;
+}
+.box1{
+    height: 100%;
+    width: 100%;
+    font-weight: bold;
+}
+.carousel{
+    height: auto!important;
+}
+.box{
+    background-color: black;
+    color: white;
+}
+.box2{
+    width: 100%;
+}
+.box3{
+    height: auto;
+}
